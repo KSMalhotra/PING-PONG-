@@ -1,0 +1,22 @@
+body
+{
+background-size: cover;
+align-items: center;
+}
+
+.footer{    
+        background-color: coral;
+        line-height: 2;
+        margin: 0px;
+        bottom: 0px;
+        position: sticky;
+}
+
+canvas{
+        align-items: center;
+        text-align: center;
+}
+
+h4{
+        background: coral;
+}
